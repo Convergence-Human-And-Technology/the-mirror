@@ -5,3 +5,31 @@
 # The Mirror
 
 The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary software solution that transforms how you interact with your digital workspace. Engineered for professionals and enterprises who demand innovation. A proprietary technology from Convergence. Available as SaaS
+
+#
+
+© 2026 Convergence - Human & Technology
+All Rights Reserved
+
+. <a href="https://www.linkedin.com/company/convergence-organization" target="_blank" rel="noopener noreferrer">Convergence on LinkedIn</a>
+
+This software is proprietary and confidential.
+Unauthorized use is prohibited.
+
+For licensing, contact : encrypt-free.74.mq2fl@aleeeas.com
+
+#
+
+Organization : Convergence - Human & Technology
+
+Authors : Charlotte O' Toole, Fabien Conéjéro
+
+- https://github.com/charlotte-otoole/the-mirror
+- https://github.com/madjeek-web
+
+Product : The Mirror - 
+Date : March 3, 2026 - 
+Version : 1.0 - 
+Product : The Mirror - 
+Date : March 3, 2026 - 
+Version : 1.0
