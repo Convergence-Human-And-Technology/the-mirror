@@ -16,7 +16,7 @@ All Rights Reserved
 This software is proprietary and confidential.
 Unauthorized use is prohibited.
 
-For licensing, contact : encrypt-free.74.mq2fl@aleeeas.com
+For licensing, contact : convergence-tech@proton.me
 
 #
 
