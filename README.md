@@ -11,8 +11,6 @@ The Mirror - Next Generation Desktop Experience - The Mirror is a revolutionary 
 © 2026 Convergence - Human & Technology
 All Rights Reserved
 
-. <a href="https://www.linkedin.com/company/convergence-organization" target="_blank" rel="noopener noreferrer">Convergence on LinkedIn</a>
-
 This software is proprietary and confidential.
 Unauthorized use is prohibited.
 
@@ -33,3 +31,7 @@ Version : 1.0 -
 Product : The Mirror - 
 Date : March 3, 2026 - 
 Version : 1.0
+
+#
+
+Convergence
