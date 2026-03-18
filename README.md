@@ -34,4 +34,6 @@ Version : 1.0
 
 #
 
-Convergence
+. LinkedIn Page : https://www.linkedin.com/company/convergence-organization
+
+. Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
