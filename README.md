@@ -34,6 +34,8 @@ Version : 1.0
 
 #
 
+. Web Site : https://convergence-human-technology.github.io/site
+
 . LinkedIn Page : https://www.linkedin.com/company/convergence-organization
 
 . Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
